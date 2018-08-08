@@ -1,5 +1,5 @@
 {
-    "name": "xfile/firewall",
+    "name": "cmsbd/firewall",
     "type": "library",
     "description": "Firewall is a PHP libray that warn about XSS attact",
     "keywords": ["xss","firewall"],
