@@ -1,0 +1,18 @@
+{
+    "name": "nv/firewall",
+    "type": "library",
+    "description": "Firewall is a PHP libray that warn about XSS attact",
+    "keywords": ["xss","firewall"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shafiur Shamim",
+            "email": "shafiur52@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "NV\\Firewall\\": "src/"
+        }
+    }
+}
