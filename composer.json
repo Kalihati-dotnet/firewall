@@ -14,5 +14,6 @@
         "psr-4": {
             "NV\\Firewall\\": "src/"
         }
-    }
+    },
+     "minimum-stability": "stable"
 }
